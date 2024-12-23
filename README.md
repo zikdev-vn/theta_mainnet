@@ -1,8 +1,8 @@
 # theta_mainnet
 
-# khoi chay nut
+# khoi chay nut / run
 ```bash
-ulimit -n 4096; ./theta start --config=../guardian_mainnet/node 
+cd bin/ && ulimit -n 4096; ./theta start --config=../guardian_mainnet/node 
 ```
 # neu k duoc thme bang dieu khien khac
 ```bash

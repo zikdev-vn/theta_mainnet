@@ -1,13 +1,13 @@
 # theta_mainnet
 
--khoi chay nut
+- khoi chay nut
 
--ulimit -n 4096; ./theta start --config=../guardian_mainnet/node
+- ulimit -n 4096; ./theta start --config=../guardian_mainnet/node -
 
--neu k duoc thme bang dieu khien khac
+- neu k duoc thme bang dieu khien khac
 
--./thetacli query status
+- ./thetacli query status
 
--in ra address
+- in ra address
 
--./thetacli query guardian
+- ./thetacli query guardian
